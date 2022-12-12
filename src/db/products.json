@@ -1,0 +1,56 @@
+[
+   {
+      "id": 1,
+      "title": "hola"
+   },
+   {
+      "id": 2,
+      "title": "hola"
+   },
+   {
+      "id": 3,
+      "title": "hola"
+   },
+   {
+      "id": 5,
+      "title": "hola"
+   },
+   {
+      "id": 6,
+      "title": "hola"
+   },
+   {
+      "id": 7,
+      "title": "hola"
+   },
+   {
+      "id": 8,
+      "title": "hola"
+   },
+   {
+      "id": 9,
+      "title": "hola"
+   },
+   {
+      "id": 10,
+      "title": "hola"
+   },
+   {
+      "title": "first product",
+      "description": "primer producto guardado",
+      "price": 300,
+      "thumbnail": "sin imagen",
+      "code": "abc123",
+      "stock": 5,
+      "id": 11
+   },
+   {
+      "title": "first product MODIFIED",
+      "description": "primer producto modificado",
+      "price": 300,
+      "thumbnail": "sin imagen",
+      "code": "abc124",
+      "stock": 5,
+      "id": 12
+   }
+]
